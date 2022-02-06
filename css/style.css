@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: rgb(160, 70, 70);
+}
+#image {
+        display: block;
+          
+        max-width: 100%;
+        
+        margin-left: auto;
+        
+        margin-right: auto;  
+    }
+    #tribute-info 
+    {
+        background: gray;
+    }
+#img-caption {
+    font-style: italic;
+    margin-top: 0;
+    text-align: center;
+}
+    ul{
+        list-style: none;
+    }
